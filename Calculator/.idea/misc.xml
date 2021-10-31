@@ -3,9 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Admin/Desktop/android/Lab/1_2_A_Hello_Toast/app/src/main/res/layout-land/activity_main.xml" value="0.22" />
-        <entry key="..\:/Users/Admin/Desktop/android/Lab/1_2_A_Hello_Toast/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.15" />
-        <entry key="..\:/Users/Admin/Desktop/android/Lab/1_2_A_Hello_Toast/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Desktop/android/Lab/Calculator/app/src/main/res/drawable/background_button.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Admin/Desktop/android/Lab/Calculator/app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>
   </component>
